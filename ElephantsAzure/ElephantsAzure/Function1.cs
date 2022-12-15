@@ -35,7 +35,7 @@ namespace ElephantsAzure
 
             var all = elephantProvider.Elephants;
 
-            string id = req.Query["id"];
+           // string id = req.Query["id"];
           //  id = id ?? "";
 
            // var single = elephantProvider.GetElephant(id);
